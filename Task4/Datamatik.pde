@@ -12,12 +12,14 @@ void setup(){
  println(student2.name);
  
  
+ 
 
 if (isClassmates(student1,student2)){
 println(" and are classmates");
 } else {
 println(" and are not classmates");
 }
+println(student1.getName());
 }
 
 boolean isClassmates(Student studentA, Student studentB){

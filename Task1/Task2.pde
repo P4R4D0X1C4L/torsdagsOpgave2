@@ -21,9 +21,6 @@ boolean iAmHappy(){
 // Assigment 2c
 int sum(int a, int b){
  return a + b;
-// int ret = a + b;
- //println(ret);
- //return ret;
 }
 
 // Assigment 2d

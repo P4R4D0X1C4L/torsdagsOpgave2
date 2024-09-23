@@ -11,4 +11,14 @@ age = tmpAge;
 isFemale = tmpIsFemale;
 datamatikerTeam = tmpDatamatikerTeam;
 }
+
+String getName(){
+return name;
+}
+
+void changeName(String newName){
+  name = newName;
+}
+
+
 }

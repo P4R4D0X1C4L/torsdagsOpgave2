@@ -12,4 +12,11 @@ isFemale = tmpIsFemale;
 void changeName(String newName){
   name = newName;
 }
+
+String getName(){
+return name;
+}
+
+
+
 }
